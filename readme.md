@@ -49,12 +49,10 @@
     python setup.py install
     ```
 ## :computer: Prepare Dataset
-- We provide the processed ``AAPM16`` links: [BaiduNetdisk](TBD);  [OneDrive](TBD).
-
-- You can also download original ``AAPM16`` dataset from [AAPM](https://aapm.app.box.com/s/eaw4jddb53keg1bptavvvd1sf4x3pe9h/folder/144226105715) and process them by your self. We have provided preprocessing code in ``./datasets/preprocess_aapm.py``.
+- Please download original ``AAPM16`` dataset from [AAPM](https://aapm.app.box.com/s/eaw4jddb53keg1bptavvvd1sf4x3pe9h/folder/144226105715) and process them with code in ``./datasets/preprocess_aapm.py``.
 
 ## :key: Train and Evaluate
-- We provide the checkpoint of trained CvG-Diff the following links, you can download them for direct inference: [BaiduNetdisk](TBD);  [OneDrive](TBD).
+- We provide the checkpoint of trained CvG-Diff the following links, you can download them for direct inference: [BaiduNetdisk](https://pan.baidu.com/s/1zPDkjhOVrr3ZWjRuaogDQg?pwd=cvgd);  [Huggingface](https://huggingface.co/HajihajihaJimmy/CvG-Diff).
 - Run training:
   Open the ``train.sh`` file and config your dataset path and result directory properly, then run
     ```cmd
