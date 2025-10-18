@@ -14,6 +14,9 @@
 </a>
 </div>
 
+This repository contains the official implementation of 'Cross-view Generalized Diffusion Model for
+ Sparse-view CT Reconstruction', which has been accepted as a spotlight paper at MICCAI 2025.
+
 ## :rocket: Updates
 - The code of training & test are released.
 - The weights of trained models are released. 
